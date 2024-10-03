@@ -9,3 +9,7 @@ For educational purposes.
 $ git init
 Initialized empty Git repository.
 ```
+## Task List Example
+- [x] List syntax is required
+- [ ] This item is incomplete
+- [x] This item is complete
